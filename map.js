@@ -144,7 +144,7 @@ var simplemaps_usmap_mapdata={
       name: "Indiana",
       color: "#5C1A18",
       hover_color: "#8c504e",
-      description: "<strong>Curtis Hill Jr. <span class='ng-map--party'>Republican</span></strong><br>In Office Since 2017"
+      description: "<strong>Todd Rokita<span class='ng-map--party'>Republican</span></strong><br>In Office Since 2021"
     },
     IL: {
       name: "Illinois",
@@ -282,7 +282,7 @@ var simplemaps_usmap_mapdata={
       name: "Montana",
       color: "#5C1A18",
       hover_color: "#8c504e",
-      description: "<strong>Tim Fox <span class='ng-map--party'>Republican</span></strong><br>In Office Since 2013"
+      description: "<strong>Austin Knudsen<span class='ng-map--party'>Republican</span></strong><br>In Office Since 2021"
     },
     CO: {
       name: "Colorado",
@@ -344,7 +344,7 @@ var simplemaps_usmap_mapdata={
       name: "Puerto Rico",
       hide: "no",
       inactive: "no",
-      description: "<strong>InÃ©s Carrau MartÃ­nez <span class='ng-map--party'>Democrat</span></strong><br>In Office Since 2017"
+      description: "<strong>Domingo Emanuelli Hernández <span class='ng-map--party'>Independent or Other</span></strong><br>In Office Since 2021"
     },
     MP: {
       name: "Northern Mariana Islands",
@@ -356,7 +356,7 @@ var simplemaps_usmap_mapdata={
       name: "American Samoa",
       hide: "no",
       inactive: "no",
-      description: "<strong>Mitzie Jessop Taas <span class='ng-map--party'>Independent or Other</span></strong><br>In Office Since 2020",
+      description: "<strong>Fainu’ulei Falefatu Ala’ilima-Utu <span class='ng-map--party'>Independent or Other</span></strong><br>In Office Since 2021",
       color: "#027860",
       hover_color: "#3eaa94"
     }
